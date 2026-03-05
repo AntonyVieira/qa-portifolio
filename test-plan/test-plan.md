@@ -1,9 +1,22 @@
-# Test Plan - Login
+# Test Plan - SauceDemo Login
 
-Objetivo: testar funcionalidade de login.
+## Objective
+Validar a funcionalidade de login do sistema.
 
-Testes incluídos:
+## Scope
+Serão testados os seguintes cenários:
 
-- login com dados válidos
+- login com credenciais válidas
 - login com senha inválida
 - login com campos vazios
+
+## Test Types
+
+- Teste funcional
+- Teste exploratório
+
+## Environment
+
+Browser: Google Chrome  
+Sistema Operacional: Windows  
+Site testado: https://www.saucedemo.com
